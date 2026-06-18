@@ -13,7 +13,8 @@
 ## 📌 About the Challenge
 
 The **SDE Sheet Challenge** started on **June 1st, 2026**.  
-Every day for 45 days, one problem from the TUF SDE Sheet is solved with:
+Every day for 45 days, problems from the TUF SDE Sheet are solved with:
+
 - ✅ Clean Java solution
 - 🧠 Full intuition explained
 - ⏱️ Time and space complexity analysis
@@ -46,7 +47,7 @@ sde-sheet-challenge/
 | Day | Problems Solved | Topics | Status |
 |-----|----------------|--------|--------|
 | [Day 01](./Day-01/README.md) | Set Matrix Zeroes · Pascal's Triangle (nCr) · Next Permutation | Arrays | ✅ |
-| Day 02 | Coming soon... | — | ⏳ |
+| [Day 02](./Day-02/README.md) | Maximum Subarray · Sort 0s 1s 2s · Best Time to Buy & Sell Stock | Arrays | ✅ |
 | Day 03 | Coming soon... | — | ⏳ |
 | Day 04 | Coming soon... | — | ⏳ |
 | Day 05 | Coming soon... | — | ⏳ |
@@ -58,6 +59,7 @@ sde-sheet-challenge/
 ## 🛠️ How to Use This Repo
 
 Each `Day-XX/README.md` contains:
+
 - **Problem statement** (brief)
 - **Intuition** — the thought process behind the approach
 - **Java solution** — clean, commented code
@@ -68,8 +70,7 @@ Each `Day-XX/README.md` contains:
 
 ## 🔗 Connect
 
-Follow the journey on: Instagram :- @LetsCode27
-
+Follow the journey on Instagram: [@LetsCode27](https://instagram.com/letscode27)  
 Use **#SDESheetChallenge** · **#TUF** · **#Striver** · **#DSA**
 
 ---
